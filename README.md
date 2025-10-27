@@ -42,6 +42,7 @@ Interfaz web para una panadería artesanal, diseñada para mostrar productos y s
 📫 **Correos:**  
 - Personal: [argabrielrodriguez15@gmail.com](mailto:argabrielrodriguez15@gmail.com)  
 - Institucional: [00005118@uca.edu.sv](mailto:00005118@uca.edu.sv) *(usado en algunos proyectos universitarios)*  
+
 💼 **LinkedIn:** [Gabriel Rodríguez](https://www.linkedin.com/in/gabriel-rodriguez-b7591911a/)  
 
 ---
