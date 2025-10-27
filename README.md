@@ -9,7 +9,7 @@ Aquí presento algunos de mis proyectos desarrollados durante mi formación como
 🧩 **Tecnologías:** Node.js, Express, MongoDB  
 🔐 **Descripción:**  
 API REST para una aplicación de cuidado de plantas. Permite registrar usuarios, asociar plantas, obtener información de cuidados y listar viveros.  
-*(Diseñada para integrarse con una app Android de jardinería)*  
+*(Diseñada para integrarse con una app Android de jardinería).*  
 
 ---
 
@@ -31,7 +31,7 @@ Implementación de un sistema oficial de facturación electrónica con validaci�
 
 ## 🍞 Frontend - Panadería Web
 **Repositorio:** [Panaderia_web](https://github.com/A-gabrieRodriguez/Panaderia_web)  
-🧩 **Tecnologías:** React, HTML, CSS, JavaScript, Tailwind  
+🧩 **Tecnologías:** React, HTML, CSS, JavaScript  
 🎨 **Descripción:**  
 Interfaz web para una panadería artesanal, diseñada para mostrar productos y simular pedidos con una experiencia sencilla y visualmente atractiva.  
 
@@ -39,7 +39,9 @@ Interfaz web para una panadería artesanal, diseñada para mostrar productos y s
 
 ## 🌐 Enlaces de Interés  
 📁 **Repositorio General:** [MyProjects](https://github.com/A-gabrieRodriguez/MyProjects)  
-📫 **Correo:** [argabrielrodriguez15@gmail.com](mailto:argabrielrodriguez15@gmail.com)  
+📫 **Correos:**  
+- Personal: [argabrielrodriguez15@gmail.com](mailto:argabrielrodriguez15@gmail.com)  
+- Institucional: [00005118@uca.edu.sv](mailto:00005118@uca.edu.sv) *(usado en algunos proyectos universitarios)*  
 💼 **LinkedIn:** [Gabriel Rodríguez](https://www.linkedin.com/in/gabriel-rodriguez-b7591911a/)  
 
 ---
