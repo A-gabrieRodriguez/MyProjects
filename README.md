@@ -25,7 +25,28 @@ Sistema de seguridad para una ciudad que permite gestionar permisos de acceso me
 **Repositorio:** [FacturaElectronica](https://github.com/rodolfo-22/FacturaElectronica)  
 🧩 **Tecnologías:** Spring Boot, Spring Security, JWT, MySQL  
 📄 **Descripción:**  
-Implementación de un sistema oficial de facturación electrónica con validación ante Hacienda, cifrado de información y firma digital.  
+Sistema de Facturación Electrónica desarrollado con Spring Boot, diseñado para cumplir con los requisitos oficiales de validación fiscal.
+El proyecto implementa una arquitectura limpia (Controller–Service–Repository) y seguridad robusta mediante JWT + Spring Security, incluyendo roles y permisos.
+La base de datos está completamente gestionada con Liquibase, permitiendo versionado claro y carga automática de datos iniciales.
+Incluye módulos de empleados, productos, clientes, ventas, detalles de venta, QR Codes y datos empresariales, además de un flujo seguro de login/registro.
+
+Tecnologías principales:
+
+* Java 21
+
+* Spring Boot 3 (Web, Security, Validation, JPA)
+
+* JWT Authentication
+
+* PostgreSQL
+
+* Liquibase
+
+* Docker / Docker Compose
+
+* Gradle
+
+* Lombok  
 
 ---
 
